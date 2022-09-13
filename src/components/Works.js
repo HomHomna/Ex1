@@ -15,9 +15,9 @@ export default function Works() {
         <CardContent img={img[1]}/>
         <CardContent img={img[2]}/>
       </div>
-      <div className="flex flex-col items-center mb-28">
-        <div className="mb-2">See more</div>
-        <img src={arrow} className="w-10"/>
+      <div className="flex flex-col items-center mb-28 ">
+        <div className="mb-2 cursor-pointer	">See more</div>
+        <img src={arrow} className="w-10 cursor-pointer	"/>
       </div>
       <Contact />
     </div>

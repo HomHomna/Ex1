@@ -8,7 +8,7 @@ export default function Tail(){
               <ul className="flex mx-12 gap-20 text-white">
                 <li><a href="#client">About</a></li>
                 <li><a href="#works">Works</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#contact">Contact</a></li>
               </ul>
               <div className="flex gap-4 ml-5">
                 <img src={img[0]} alt="twitter" className="w-5"/>
